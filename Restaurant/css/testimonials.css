@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.object1{
+    background-image: linear-gradient(rgb(117, 0, 128),rgb(218, 117, 249));
+}
+.object2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: blueviolet;
+    padding-left: 510px;
+    font-family: fantasy;
+}
+.object3{
+    font-size: 20px;
+    padding-left: 150px !important;
+    font-family: serif;
+}
+.object19{
+    background-image: linear-gradient(rgb(239, 115, 250),rgb(117, 0, 152));
+    padding-bottom: 50px;
+}
+.object20{
+    font-family: fantasy;
+    font-size: 30px;
+    color:aqua;
+}
+.object23{
+    margin-left: 150px;
+    color: white;
+}
+.object24{
+    padding-left: 150px;
+}
+.object25{
+    margin-right: 200px;
+}
+.object4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: antiquewhite;
+}

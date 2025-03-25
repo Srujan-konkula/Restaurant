@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.object1{
+    background-image: linear-gradient(rgb(117, 0, 128),rgb(225, 128, 255));
+}
+.object2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: blueviolet;
+    padding-left: 510px;
+    font-family: fantasy;
+}
+.object3{
+    font-size: 20px;
+    padding-left: 150px !important;
+    font-family: serif;
+}
+.object4{
+    text-align: center;
+    padding-top: 30px;
+    color: blueviolet;
+    text-decoration: underline   ;
+}
+.object5{
+    margin-left: 480px;
+    margin-top: 50px;
+    border: 2px solid orange;
+    border-radius: 30px;
+    width: 450px;
+    height: 550px;
+    /* background-color: black; */
+
+}
+.object8{
+    padding-left: 30px;
+    padding-top: 50px;
+    
+}
+#name{
+    width: 400px;
+}
+#phone{
+    width: 400px;
+}
+#food{
+    width: 400px;
+}
+#quantity{
+    width: 400px;
+}
+#address{
+    width:400px;
+}
+#button{
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color: blueviolet;
+}
+.form-label{
+    padding-right: 250px;
+}
+.object19{
+    background-image: linear-gradient(rgb(239, 115, 250),rgb(117, 0, 152));
+    padding-bottom: 50px;
+}
+.object20{
+    font-family: fantasy;
+    font-size: 30px;
+    color:aqua;
+}
+.object23{
+    margin-left: 150px;
+    color: white;
+}
+.object24{
+    padding-left: 150px;
+}
+.object25{
+    margin-right: 200px;
+}

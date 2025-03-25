@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.object1{
+    background-image: linear-gradient(rgb(117, 0, 128),rgb(218, 117, 249));
+}
+.object2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: blueviolet;
+    padding-left: 510px;
+    font-family: fantasy;
+}
+.object3{
+    font-size: 20px;
+    padding-left: 150px !important;
+    font-family: serif;
+}
+.object6{
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+    padding-left: 800px;
+    padding-top: 100px;
+}
+.object7{
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    padding-left: 800px;
+    padding-top: 200px;
+}
+.object8{
+    background-color: antiquewhite;
+}
+.object9{
+    color: white;
+}
+.object10{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding-top: 70px;
+}
+.object11{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color:white;
+    font-size: 20px;
+    color: blueviolet;
+}
+.object12{
+    background-color: rgb(174, 88, 253);
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;margin-left: 150px;
+}
+.object13{
+    color: blueviolet;
+
+}
+.object14{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.form-label{
+    padding-right: 330px;
+}
+.form-select{
+    margin-left: 30px;
+    width: 400px !important;
+}
+.object15{
+    width: 400px;
+    margin-left: 30px;
+}
+.object16{
+    padding-right: 350px;
+}
+.object17{
+    padding-right: 360px;
+}
+.object18{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    border: none;
+    width: 300px;
+    height: 40px;
+}
+.object19{
+    background-image: linear-gradient(rgb(239, 115, 250),rgb(117, 0, 152));
+    padding-bottom: 50px;
+}
+.object20{
+    font-family: fantasy;
+    font-size: 30px;
+    color:aqua;
+}
+.object23{
+    margin-left: 150px;
+    color: white;
+}
+.object24{
+    padding-left: 150px;
+}
+.object25{
+    margin-right: 200px;
+}
